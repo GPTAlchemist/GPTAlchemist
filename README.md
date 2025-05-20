@@ -19,7 +19,8 @@ This isn’t prompt engineering. This is systems design — for teams that *can�
 
 ---
 
-## 🔬 GPT Agronomy Protocol
+## 🔬 GPT Agronomy Protocol  
+[See repo →](https://github.com/GPTAlchemist/GPT_Agronomy_Protocol)
 
 A 2-phase adversarial framework for **constructing**, **breaking**, and **hardening** GPT instruction sets.
 
@@ -42,6 +43,7 @@ Deliberately breaks what you just built. Reaper simulates:
 ---
 
 ## 📝 README Synth GPT
+[See repo →](https://github.com/GPTAlchemist/README-Synth)
 
 Most README generators write summaries.  
 This one enforces narrative logic, tone alignment, and schema compliance.
@@ -57,6 +59,7 @@ It doesn’t just explain your repo. It **defends** it.
 ---
 
 ## 🌀 The Driftage Paradox (WIP)
+[See repo →](https://github.com/GPTAlchemist/The-Driftage-Paradox-)
 
 A teardown of how GPTs **fail over time**.
 
@@ -111,3 +114,9 @@ Everything in here — claims, systems, language — originated from my own work
 The tool just organized it.
 
 → [See the tool](https://github.com/GPTAlchemist/README-Synth)
+
+
+## 📂 Featured Repos  
+- 🔬 [GPT Agronomy Protocol](https://github.com/GPTAlchemist/GPT_Agronomy_Protocol) – Schema-first GPT construction & stress testing  
+- 📝 [README Synth GPT](https://github.com/GPTAlchemist/README-Synth) – Auto-structured, tone-locked documentation  
+- 🌀 [The Driftage Paradox](https://github.com/GPTAlchemist/The-Driftage-Paradox-) – Context decay analysis & recovery (WIP)
