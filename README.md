@@ -1,66 +1,113 @@
-## 👋 Hey, I'm Andrew — aka GPTAlchemist
-Estimating Manager turned AI Systems Architect. I build schema-enforced, logic-rigorous GPT tools designed to survive long-form sessions, scale across teams, and anchor real-world workflows. My work bridges estimating, ops strategy, and custom AI integration—with zero fluff and full stack control.
+# 👋 Andrew Polk — aka GPTAlchemist
 
-## 🧱 What I Build
-I don’t make prompts. I engineer clarity systems. Every tool I build targets a real production weakness—drift, dilution, vagueness, fragility—and replaces it with structure.
+Estimating Manager turned AI Systems Architect.
 
-### 🔬 GPT Agronomy Protocol
-A two-phase adversarial protocol for stress-testing and validating GPT instruction sets:
-- **Instruction Alchemist:** Schema-first builder that transforms raw intent into logic-valid scaffolds
-- **Instruction Reaper:** Diagnostic attacker that mocks, breaks, and refines fragile instruction sets
-- **Outcome:** Production-hardened GPTs ready for volatile, role-sensitive workflows
+I don’t build “prompts.” I build **clarity engines**: schema-enforced, stress-tested GPT systems that survive long-form use, scale across teams, and slot into real-world workflows — no handholding, no hallucinated UX.
 
-### 📝 README Synth GPT
-Most docs explain. This one enforces. Converts verbose logic, prompt chaos, or dev notes into:
-- Structured, publishable READMEs
-- Schema-compliant instruction files
-- Enterprise-facing clarity with tone-aware modulation
+---
 
-### 🌀 The Driftage Paradox *(WIP)*
-An analysis of contextual decay in GPTs over long sessions. Built to:
-- Detect signal loss (formatting, tone, logic breakdown)
-- Simulate turn-by-turn behavior degradation
-- Introduce DriftWarden: a YAML-based recovery and reinforcement tool
+## 🧱 What I Actually Build
 
-## 🧠 How I Think
-GPTs don’t break. They erode.
+Every tool I ship replaces a real failure mode:
 
-Most systems fail not at the token limit, but under **signal dilution**—a slow bleed where scaffolds fade and GPTs start guessing. My work focuses on **predictable resilience**: testing collapse points, designing schema locks, and embedding self-healing anchors inside the system prompt.
+- **Drift →** Solved with schema locks  
+- **Vagueness →** Replaced by role-aligned behavior blocks  
+- **Token bloat →** Contained through modular prompts and self-healing anchors  
+- **Context collapse →** Exposed and hardened by adversarial logic harnesses
 
-Every tool I build is:
-- Schema-first
-- Role-aware
-- Stress-tested by adversarial subsystems
-- Designed to scale without handholding
+This isn’t prompt engineering. This is systems design — for teams that *can’t afford* brittle GPTs.
 
-## 🎯 Who I Help
-I'm a fit for AI teams that need:
-- Toolsmith-level GPT builders
-- Schema enforcement for multi-role GPTs
-- Internal clarity layers (docs, guides, modulated instructions)
-- Long-form context resilience and drift management
+---
 
-I’ve worked in:
-- Defense and electrical infrastructure
-- eMobility estimating and automation
-- High-pressure proposal ops
+## 🔬 GPT Agronomy Protocol
 
-And I’m ready to build **real AI infrastructure**—not just demos.
+A 2-phase adversarial framework for **constructing**, **breaking**, and **hardening** GPT instruction sets.
 
-## 📬 Let’s Talk
-If you’re building with GPTs at scale, I can help you:
-- Harden your instruction logic
-- Reduce failure under context pressure
-- Make tools that survive beyond demo day
+### Phase 1: `Instruction Alchemist`  
+Builds schema-valid logic from vague intent. Every output is:
 
-📧 andrew.l.polk@gmail.com  
-🌐 [github.com/GPTAlchemist](https://github.com/GPTAlchemist)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andrewandrewlpolk)
+- Role-bound and scope-aware  
+- Fully scaffolded using enforced YAML schemas  
+- Built for modifiability and inspection — not guesswork
+
+### Phase 2: `Instruction Reaper`  
+Deliberately breaks what you just built. Reaper simulates:
+
+- Context decay and drift  
+- Bad actor prompts and misuse  
+- Logic collisions in real workflows
+
+🧱 **Result:** Instruction sets that can be trusted under pressure — not just demo day.
+
+---
+
+## 📝 README Synth GPT
+
+Most README generators write summaries.  
+This one enforces narrative logic, tone alignment, and schema compliance.
+
+Feed it your chaos — docs, bullet dumps, raw prompt logic — and get back:
+
+- Developer-grade Markdown docs  
+- Schema-compliant instruction files  
+- Enterprise-ready presentation without the fluff
+
+It doesn’t just explain your repo. It **defends** it.
+
+---
+
+## 🌀 The Driftage Paradox (WIP)
+
+A teardown of how GPTs **fail over time**.
+
+- Simulates signal degradation (tone, formatting, logic)  
+- Models long-turn erosion in multi-step assistants  
+- Introduces `DriftWarden`: a YAML-based recovery and re-anchoring layer  
+
+🔍 **Core Premise:** GPTs don’t break — they erode. Most teams don’t notice until it’s too late.
+
+---
+
+## 🧠 Design Principles
+
+Everything I build follows the same rules:
+
+- **Schema-first logic enforcement**  
+- **Adversarial validation baked in**  
+- **Explicit formatting & tone control**  
+- **System prompts that don’t guess**  
+- **Designed to scale without supervision**
+
+This is not “AI tooling.”  
+This is **ops-layer infrastructure** for GPT-integrated workflows.
+
+---
+
+## 🎯 Who I Work With
+
+If you’re shipping GPT tools at scale and need:
+
+- Real schema logic — not loose prompt blocks  
+- Drift mitigation and long-form resilience  
+- Internal clarity engines (docs, guides, systems)  
+- Instruction sets that don’t crack under pressure
+
+Let’s talk.
+
+---
+
+## 📬 Contact
+
+- 📧 **Email:** andrew.l.polk@gmail.com  
+- 🌐 **GitHub:** [github.com/GPTAlchemist](https://github.com/GPTAlchemist)  
+- 🔗 **LinkedIn:** [linkedin.com/in/andrewandrewlpolk](https://www.linkedin.com/in/andrewandrewlpolk)
 
 ---
 
 ## 🔒 Disclaimer
-This README was generated using the [README Synth GPT](https://github.com/GPTAlchemist/README-Synth), a tool designed to convert user-authored documentation, design logic, and development notes into clear, publishable Markdown.  
-All ideas, descriptions, and feature logic originated from the creator of this tool.  
-README Synth GPT structured, refined, and formatted the content—but it did not invent the product, its claims, or its language.  
-For full transparency on how this system works, see the GitHub project: [README Synth GPT →](https://github.com/GPTAlchemist/README-Synth)
+
+This README was structured using **README Synth GPT**, a tool I built to convert technical chaos into clean, defensible documentation.  
+Everything in here — claims, systems, language — originated from my own work.  
+The tool just organized it.
+
+→ [See the tool](https://github.com/GPTAlchemist/README-Synth)
